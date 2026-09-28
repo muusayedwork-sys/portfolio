@@ -138,7 +138,7 @@ function HeroSection() {
         <FadeIn delay={0.6} y={30}>
           <Magnet padding={150} strength={3} activeTransition="transform 0.3s ease-out" inactiveTransition="transform 0.6s ease-in-out" className="w-full">
             <img
-              src="https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png"
+              src="/portfolio/portrait.png"
               alt="Muu portrait" className="w-full h-auto block" />
           </Magnet>
         </FadeIn>

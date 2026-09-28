@@ -129,7 +129,7 @@ function HeroSection() {
       <div className="overflow-hidden mt-6 sm:mt-4 md:-mt-5">
         <FadeIn delay={0.15} y={40}>
           <h1 className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw]">
-            Hi, i&apos;m jack
+            Hi, i&apos;m muu
           </h1>
         </FadeIn>
       </div>
@@ -139,7 +139,7 @@ function HeroSection() {
           <Magnet padding={150} strength={3} activeTransition="transform 0.3s ease-out" inactiveTransition="transform 0.6s ease-in-out" className="w-full">
             <img
               src="https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png"
-              alt="Jack portrait" className="w-full h-auto block" />
+              alt="Muu portrait" className="w-full h-auto block" />
           </Magnet>
         </FadeIn>
       </div>
